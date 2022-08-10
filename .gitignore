@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.env.local
+.umirc.local.ts
+config/config.local.ts
+.umi
+.umi-production
+.umi-test
